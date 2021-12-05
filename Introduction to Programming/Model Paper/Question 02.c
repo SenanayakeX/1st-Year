@@ -48,5 +48,5 @@ puts("");
   }
 
   printf("Total : %.1f\n",tot);
-    printf("Average : %.1f\n",tot/28.0);
+  printf("Average : %.1f\n",tot/28.0);
 }
