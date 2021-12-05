@@ -9,4 +9,5 @@ class Train{
     void setTrainDetails(int ptrainID, int pcapacity, string pstartTime, string pdestination);
     void displayTrainDetails();
     void setStartTime();
+
 };
