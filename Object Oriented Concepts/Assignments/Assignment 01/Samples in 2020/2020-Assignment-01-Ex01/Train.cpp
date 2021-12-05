@@ -17,7 +17,7 @@ void Train::displayTrainDetails(){
   cout << "Destination = " << destination << endl;
 }
 
- void Train::setStartTime(){
-   cout << "Input new start time of train " << trainID << ": ";
-   cin >> startTime;
- }
+void Train::setStartTime(){
+  cout << "Input new start time of train " << trainID << ": ";
+  cin >> startTime;
+}
